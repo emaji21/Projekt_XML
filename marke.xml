@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marke>
+    <marka>
+        <naziv>Ferrari</naziv>
+        <godinaOsnivanja>1939</godinaOsnivanja>
+        <osnivac>Enzo Ferrari</osnivac>
+        <najpoznatijiModel>LaFerrari</najpoznatijiModel>
+    </marka>
+    <marka>
+        <naziv>Mercedes-Benz</naziv>
+        <godinaOsnivanja>1926</godinaOsnivanja>
+        <osnivac>Karl Benz i Gottlieb Daimler</osnivac>
+        <najpoznatijiModel>S-Class</najpoznatijiModel>
+    </marka>
+    <marka>
+        <naziv>BMW</naziv>
+        <godinaOsnivanja>1916</godinaOsnivanja>
+        <osnivac>Karl Rapp</osnivac>
+        <najpoznatijiModel>E30 M3</najpoznatijiModel>
+    </marka>
+    <marka>
+        <naziv>Audi</naziv>
+        <godinaOsnivanja>1909</godinaOsnivanja>
+        <osnivac>August Horch</osnivac>
+        <najpoznatijiModel>A4</najpoznatijiModel>
+    </marka>
+    <marka>
+        <naziv>Porsche</naziv>
+        <godinaOsnivanja>1931</godinaOsnivanja>
+        <osnivac>Ferdinand Porsche</osnivac>
+        <najpoznatijiModel>911</najpoznatijiModel>
+    </marka>
+</marke>

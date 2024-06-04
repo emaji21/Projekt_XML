@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modeli>
+    <model>
+        <naziv>Mercedes-Benz S-Klasa</naziv>
+        <cijena>€108,860.29</cijena>
+        <specs>Motor - 4.0-liter V8 S580, 496 hp</specs>
+        <performance>0-100 km/h u 4.5 sekundi</performance>
+    </model>
+    <model>
+        <naziv>Ferrari LaFerrari</naziv>
+        <cijena>€3,391,589.70</cijena>
+        <specs>Motor - 6.3 L F140 FE V12, 950 hp</specs>
+        <performance>0–100 km/h u 2.6 sekundi</performance>
+    </model>
+    <model>
+        <naziv>BMW E30 M3</naziv>
+        <cijena>€68,987.14</cijena>
+        <specs>Motor - R4, 238 hp</specs>
+        <performance>0-100 km/h u 6.8 sekundi</performance>
+    </model>
+    <model>
+        <naziv>Porsche 911</naziv>
+        <cijena>€234,400</cijena>
+        <specs>Motor - V6, 541 hp</specs>
+        <performance>0-100 km/h u 2.6 sekundi</performance>
+    </model>
+    <model>
+        <naziv>Audi A4</naziv>
+        <cijena>€39,514.12</cijena>
+        <specs>Motor - V4, 265 hp</specs>
+        <performance>0-100 km/h u 4.8 sekundi</performance>
+    </model>
+</modeli>
